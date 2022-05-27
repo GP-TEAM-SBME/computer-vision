@@ -69,7 +69,11 @@ Tasks Summary => Check each task readme for detailed description.
     - Face Recognition.    
 
 
-
+## Team Members
+- Mohamed Ahmed Abdelaziz 
+- Mohamed Khaled Galloul
+- Mohamed Abdelkarem Seyam
+- Ahmed Mohamed badra
 
 
 
