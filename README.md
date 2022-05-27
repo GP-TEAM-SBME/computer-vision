@@ -12,7 +12,7 @@ Tasks Summary => Check each task readme for detailed description.
 | 02 |          [Task-02](https://github.com/GP-TEAM-SBME/computer-vision/tree/main/assignment-2-cv-2022-sbe-404-team_10)          |    ✔️    |
 | 03 |          [Task-03](https://github.com/GP-TEAM-SBME/computer-vision/tree/main/assignment-3-cv-2022-sbe-404-team_10)          |    ✔️    |
 | 04 |          [Task-04](https://github.com/GP-TEAM-SBME/computer-vision/tree/main/assignment-4-cv-2022-sbe-404-team_10)          |    ✔️    |
-| 05 |          [Task-05]()              |   ⏳     |
+| 05 |          [Task-05](https://github.com/GP-TEAM-SBME/computer-vision/tree/main/assignment-5-cv-2022-sbe-404-team_10)          |    ✔️    |
 
 
 ### Task-01
