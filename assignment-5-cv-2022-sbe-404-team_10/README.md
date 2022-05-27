@@ -5,6 +5,14 @@
 ### Download Data From [Extended Yale Dataset](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html)
 
 
+## Gui screenshots
+
+> Make sure to run the notebook in the same directory of the application files and the Dataset
+
+![Screenshot01](EigenFaces_refactored_files/Screenshot01.png)
+![Screenshot02](EigenFaces_refactored_files/Screenshot02.png)
+
+
 ```python
 import matplotlib.pyplot as plt
 from mpl_toolkits.axes_grid1 import ImageGrid
